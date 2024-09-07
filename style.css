@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+    height: 100vh;
+    color: white;
+    padding: 5px
+    
+    
+}
+button{
+    background-color: red;
+    color: white;
+    font-size: larger;
+    font-weight: 900;
+    margin-inline: 42vw;
+    margin-top: 48vh;
+}
+div{
+    padding: 5px;
+}
+header{
+    text-align: center;
+    background-color: white;
+    color: black;
+    height: 1rem;
+    font-size: .8rem;
+    margin: .1rem;
+    font-weight: 300;
+    margin-top: 5px;
+}
